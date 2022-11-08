@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: dbt_source
+    database: dbt_db
+    schema: dbt_schema
+    tables:
+      - name: raw_customers
+      - name: raw_orders
+      - name: raw_payments
+      - name: raw_links
+      - name: raw_links_2

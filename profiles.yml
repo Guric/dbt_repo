@@ -8,5 +8,5 @@ dbt_test_project:
       password: dbt_user
       port: 5433
       dbname: dbt_db
-      schema: dbt_chema
+      schema: dbt_target
       threads: 4
