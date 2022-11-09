@@ -10,3 +10,4 @@ sources:
       - name: raw_payments
       - name: raw_links
       - name: raw_links_2
+      - name: raw_cars
